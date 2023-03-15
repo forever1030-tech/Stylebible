@@ -1,0 +1,1 @@
+Sd<?php exit; ?>a:1:{s:7:"content";a:2:{s:15:"albatross-child";s:7:"/themes";s:9:"albatross";s:7:"/themes";}}
